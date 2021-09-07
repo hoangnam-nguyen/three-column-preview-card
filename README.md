@@ -93,4 +93,7 @@ div {
 - Frontend Mentor - [@hoangnam-nguyen](https://www.frontendmentor.io/profile/hoangnam-nguyen)
 - CodePen - [@hoangnam-nguyen](https://codepen.io/hoangnam-nguyen)
 
+## Acknowledgments
+
+Many thanks to [@Joshua](https://www.frontendmentor.io/profile/minimalsm) for his constructive comment, that addresses issues with: lowercase headings, fonts not loading properly and main's width.
 
