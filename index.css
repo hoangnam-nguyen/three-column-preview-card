@@ -53,11 +53,12 @@ main {
 @media only screen and (min-width: 48rem) {   /* 768px - Ipad */
 
     body {
-        width: 60vw;
+        width: 100vw;
         margin: auto;
     }
 
     main {
+        width: 80rem;
         display: flex;
         height: 45rem;
     }
@@ -78,10 +79,11 @@ img {
 
 h1 {
     color: var(--clr-neutral-gray);
-    font-family: var(--ff-1);
+    font-family: var(--ff-2);
     font-weight: var(--fw-bold);
     font-size: var(--fs-large);
     margin-bottom: 4rem;
+    text-transform: uppercase;
 }
 
 p {
@@ -92,7 +94,7 @@ p {
 }
 
 a {
-    font-family: var(--ff-2);
+    font-family: var(--ff-1);
     font-weight: var(--fw-bold);
 }
 
