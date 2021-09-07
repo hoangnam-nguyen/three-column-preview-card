@@ -27,8 +27,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshot.png)
-![](./images/screenshot_mobile1.png)
-![](./images/screenshot_mobile2.png)
+![](./images/screenshot-mobile1.png)
+![](./images/screenshot-mobile2.png)
 
 
 ### Links
