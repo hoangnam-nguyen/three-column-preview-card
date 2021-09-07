@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/hoangnam-nguyen/stats-preview-card-component-main](https://github.com/hoangnam-nguyen/stats-preview-card-component-main)
-- Live Site URL: [https://hoangnam-nguyen.github.io/stats-preview-card-component-main/](https://hoangnam-nguyen.github.io/stats-preview-card-component-main/)
+- Solution URL: [https://github.com/hoangnam-nguyen/three-column-preview-card](https://github.com/hoangnam-nguyen/three-column-preview-card)
+- Live Site URL: [https://hoangnam-nguyen.github.io/three-column-preview-card/](https://hoangnam-nguyen.github.io/three-column-preview-card/)
 
 ## My process
 
